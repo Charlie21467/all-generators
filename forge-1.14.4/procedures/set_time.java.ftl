@@ -1,0 +1,1 @@
+if(world.getWorld() instanceof ServerWorld) world.getWorld().setDayTime(${opt.toInt(input$time)});

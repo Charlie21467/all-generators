@@ -1,0 +1,1 @@
+BlockPredicate.matchesFluid(${generator.map(field$fluid, "fluids")}, new Vec3i(${field$x}, ${field$y}, ${field$z}))

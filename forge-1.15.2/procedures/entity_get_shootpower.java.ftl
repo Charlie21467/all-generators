@@ -1,0 +1,1 @@
+(${input$projectile_entity}.getEntity() instanceof AbstractArrowEntity ? ((AbstractArrowEntity) ${input$projectile_entity}.getEntity()).getMotion().distanceTo(Vec3d.ZERO) : 0)

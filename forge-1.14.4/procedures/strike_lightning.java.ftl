@@ -1,0 +1,1 @@
+if(world instanceof ServerWorld) ((ServerWorld) world).addLightningBolt(new LightningBoltEntity(world.getWorld(), ${input$x}, ${input$y}, ${input$z}, ${(field$effectOnly!false)?lower_case}));

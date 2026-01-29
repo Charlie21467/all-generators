@@ -1,0 +1,1 @@
+world.getBlockState(origin<#if (field$x != "0")||(field$y != "0")||(field$z != "0")>.add(${field$x}, ${field$y}, ${field$z})</#if>).func_224755_d(world, origin<#if (field$x != "0")||(field$y != "0")||(field$z != "0")>.add(${field$x}, ${field$y}, ${field$z})</#if>, ${generator.map(field$direction, "directions")})

@@ -1,0 +1,1 @@
+(Holder<ConfiguredFeature<NoneFeatureConfiguration, ?>>) (Object) ${generator.map(field$feature, "configuredfeatures", 1)}

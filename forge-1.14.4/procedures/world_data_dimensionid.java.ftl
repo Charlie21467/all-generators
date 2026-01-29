@@ -1,0 +1,1 @@
+(world instanceof World ? world.getWorld().getDimension().getType().getId() : 0)
