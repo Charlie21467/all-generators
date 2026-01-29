@@ -8,9 +8,6 @@
     "name": "Minecraft Forge & Fabric Generator",
     "version": "1.0.0",
     "description": "An MCreator Generator",
-    "author": "Goldorion, NerdyPuzzle, Spectrall, and Charlie214",
-    "credits": ".",
-    "updateJSONURL": "https://raw.githubusercontent.com/Goldorion/Fabric-Generator-MCreator/1.21.8-dev/update.json",
-    "pluginPageID": 64512
+    "author": "Goldorion, NerdyPuzzle, Spectrall, and Charlie214"
   }
 }
