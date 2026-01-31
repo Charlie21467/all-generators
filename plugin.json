@@ -1,12 +1,19 @@
 {
-  "id": "generator-forge-fabric-2025.3",
-  "weight": 11,
+  "id": "generator-neoforge-forge-fabric-v1.0.1",
+  "weight": 1,
   "supportedversions": [
-    2025003
+	2025001,
+	2025002,
+	2025003,
+	2024001,
+	2024002,
+	2024003,
+	2024004
   ],
+
   "info": {
-    "name": "Minecraft Forge & Fabric Generator",
-    "version": "1.0.0",
+    "name": "Minecraft Forge, NeoForge & Fabric Generator",
+    "version": "1.0.1",
     "description": "An MCreator Generator",
     "author": "Goldorion, NerdyPuzzle, Spectrall, and Charlie214"
   }
